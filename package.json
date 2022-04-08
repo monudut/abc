@@ -1,5 +1,6 @@
 {
   "name": "react_movie",
+  "homepage": "https://monudut.github.io/movie-list-react/react_movie",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
